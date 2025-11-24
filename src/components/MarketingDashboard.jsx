@@ -66,7 +66,7 @@ export default function MarketingDashboard() {
 
   return (
     <div className="dashboard">
-      <h1>Marketing Dashboard Data</h1>
+      <h1>Marketing Dashboard  Admin second</h1>
 
       <Filters />
       <PerformanceSummary summary={summary} />
